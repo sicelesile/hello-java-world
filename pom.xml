@@ -165,6 +165,16 @@
         </plugin>
       </plugins>
     </pluginManagement>
+           
+           
+           <repositories>
+    <repository>
+      <id>forplay-legacy</id>
+      <url>http://forplay.googlecode.com/svn/mavenrepo</url>
+    </repository>
+  </repositories>
+           
+           
   </build>
 
   <dependencyManagement>
